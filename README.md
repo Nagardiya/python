@@ -1,2 +1,7 @@
 # python
-Daily Python practice repository containing small programs and examples to improve problem-solving, logic building, and coding consistency.
+01_print_input.py
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+print("Hello", name)
+print("You are", age, "years old") 
