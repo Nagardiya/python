@@ -5,6 +5,11 @@
 -set
 -boolen
 
+#python opratores
+-arithmatic oparation
+-assigment operation
+
+
 
 
 
