@@ -1,7 +1,6 @@
 python
 php
-java
-html
+ja
 
 
 
