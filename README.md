@@ -4,10 +4,6 @@
 -dictionary
 -set
 
-#python datase 
--mpgodb
--sql
-
 
 
 
