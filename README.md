@@ -2,6 +2,7 @@
 -list
 tuple
 set
+dictinaru
 
 
 
